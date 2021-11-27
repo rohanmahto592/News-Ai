@@ -3,7 +3,7 @@
 
 | Project | Link |
 | ------ | ------ |
-| Website |  https://news-ai-alan.netlify.app/
+| Website |  https://news-ai1.netlify.app
 | Video Demo | https://drive.google.com/file/d/12Vocf56AdTD0L0XbPyrESkuluYUXVTXp/view?usp=sharing
 
 ---
